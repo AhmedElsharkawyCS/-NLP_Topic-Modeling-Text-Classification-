@@ -1,1 +1,5 @@
 txt_sentoken
+convert_text_to_numbers.py
+core.py
+preProccessing.py
+TFIDF.py
